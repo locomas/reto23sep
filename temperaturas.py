@@ -1,0 +1,1 @@
+# El valle del aburrra afronta altas temperaturas. Crea una funcion que permita calc la temp media de la tierra, a partir de recibir 20 datos diarios de temp
